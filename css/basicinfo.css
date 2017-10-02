@@ -1,0 +1,68 @@
+	
+	
+	h1{
+		color: #ffffff;
+		margin-top: 15px;
+		margin-left: 25px;
+	}
+	
+	body{
+		margin: 0 auto;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		background-attachment: fixed;
+	}
+	
+	h3{
+		margin-left: 39%;
+		margin-top: 1.5%;
+		font-family: Kristen ITc;
+		color: #c0c0c0;
+		font-size: 17px;
+		font-weight: bold;
+		width: 20%;
+		text-align: center;
+	}
+	
+	table{
+		border: 2px solid;
+		border-radius: 10px;
+		color: #c0c0c0;
+		padding: 10px;
+		width: 50%;
+		text-align: center;
+		margin-left: 25%;
+	}
+	th{
+		font-family: Consolas;
+		font-size: 15px;
+		font-style: bold;
+	}
+	
+	td{
+		font-family: comic sans ms;
+		font-size: 20px;
+		font-style: bold;
+		color: #ff0000;
+	}
+	
+	
+	
+	.button13, .button14{
+		background-color: #000000;
+		color: #c0c0c0;
+		border-color: #c0c0c0;
+		font-style: trebuchet ms;
+		font-size: 10px;
+		font-weight: bold;
+		border-radius: 100px;
+		padding: 7px;
+		width: 250px;
+		margin-left: 40%;
+		font-family: Kristen itc;
+	}
+	
+	.button13{
+		margin-top: 0.75%;
+	}
+	
