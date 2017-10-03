@@ -27,7 +27,7 @@
 		padding-left: 65px;
 	}
 	
-	#navi a{	
+	.btn{	
 		color: #c0c0c0;
 		padding: 15px;
 		margin: 88px;
@@ -37,8 +37,8 @@
 	}
 	
 	
-	.btn: hover{
-		color: black;
+	.btn:hover{
+		color: blue;
 	}
 	
 
