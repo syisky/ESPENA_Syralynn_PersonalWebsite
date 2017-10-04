@@ -7,6 +7,20 @@
 		margin: 4px;
 		
 	}
+	
+	.btn{	
+		color: #c0c0c0;
+		padding: 15px;
+		margin: 88px;
+		text-decoration: none;
+		font-family: kristen itc;
+		font-weight: bold;
+	}
+	
+	
+	.btn:hover{
+		color: blue;
+	}
 	#navi li{
 		display: inline;
 		padding: 5px;
@@ -45,7 +59,7 @@
 	
 	#content{
 		margin: 4px;
-		background-image: url(under_the_rain.jpg);
+		background-image: url(grad.gif);
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
 		height: 61%;
@@ -62,17 +76,21 @@
 		padding: 1%;
 	}
 	
-	h2{
-		font-family: lucida calligraphy;
-		font-size: 40px;
-		color: #c0c0c0;
-		padding: 25px;
+	table{
+		margin-left: 30px;
+		margin-top: 5px;
+		padding: 50px;
 	}
 	
-	p{
+	th{
+		color: dimgray;
+		font-family: consolas;
+		font-size: 20px;
+		padding: 5px;
+	}
+	td{
+		color: black;
 		font-family: century gothic;
 		font-size: 20px;
-		color: dimgray;
-		margin-left: 35px;
-		font-weight: bold;
+		
 	}
