@@ -47,7 +47,7 @@
 		padding: 15px;
 		margin: 88px;
 		text-decoration: none;
-		font-family: joker;
+		font-family: kristen itc;
 		font-weight: bold;
 	}
 	
@@ -77,13 +77,14 @@
 	}
 	
 	blockquote{
-			color: black;
+			color: white;
 			font-family: kristen itc;
-			font-size: 80%;
+			font-size: 90%;
 			text-align: center;
 			margin-left: 5.7%;
-			padding: 5%;
-			font-weight: bold;
+			padding: 2%;
+
+			
 	}
 	
 	
